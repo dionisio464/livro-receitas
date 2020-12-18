@@ -6,3 +6,4 @@ Olá, sejam bem vindos ao meu livro de receitas. :v:
 - Pavê
 - Bolo de Cenoura
 - Brigadeiro
+- Carbonara
